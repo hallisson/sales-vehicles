@@ -14,3 +14,7 @@ Abrir [http://localhost:3000](http://localhost:3000).
 
 Compila o aplicativo para produção na pasta `build`.\
 Ele agrupa corretamente o React no modo de produção e otimiza a compilação para o melhor desempenho.
+
+O sistema usa axios-mocks para simular requisições ao back-end. 
+Login: develop@email.io
+Senha: develop
